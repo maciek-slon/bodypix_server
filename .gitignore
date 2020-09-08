@@ -1,0 +1,6 @@
+node_modules
+.yalc
+assets/frames/*
+data/**/*
+models/*/*
+package-lock.json
