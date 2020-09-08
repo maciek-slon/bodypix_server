@@ -20,7 +20,7 @@ const upload = multer({
 });
 
 
-const modelUrl = path.join(__dirname, './bodypix_resnet50_float_model-stride16/model.json');
+const modelUrl = 'file://' + path.join(__dirname, './models/bodypix_resnet50_float_model-stride16/model.json');
 
 var net;
 

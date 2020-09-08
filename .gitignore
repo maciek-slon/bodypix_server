@@ -4,3 +4,5 @@ assets/frames/*
 data/**/*
 models/*/*
 package-lock.json
+results/
+uploads/
